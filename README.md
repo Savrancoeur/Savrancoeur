@@ -2,5 +2,5 @@
 - 👀 I’m interested in web development, backend engineering, and project management. I love exploring new technologies and building innovative solutions.
 - 🌱 I’m currently learning PHP, Laravel, Vue, and Python to expand my skills in full-stack development and create more dynamic web applications.
 - 💞️ I’m looking to collaborate on open-source projects or any exciting web development projects that align with my skills and interests. I'm especially interested in projects that involve Django, Laravel, or modern front-end frameworks.
-- 📫 How to reach me: You can reach me through my [GitHub profile](https://github.com/Savrancoeur), or feel free to connect with me on LinkedIn [Thu Ta Ye Yint] or via email [mario.thuta@gmail.com] (if you want to provide an email).
+- 📫 How to reach me: You can reach me through my [GitHub profile](https://github.com/Savrancoeur), or feel free to connect with me on LinkedIn [https://www.linkedin.com/in/thutayeyint73/] or via email [mario.thuta@gmail.com] (if you want to provide an email).
 - ⚡ Fun fact: I'm not just a coder, but also a project manager! At 21, I'm already managing freelance projects, combining technical skills with leadership and organization.
